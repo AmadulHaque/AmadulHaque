@@ -17,4 +17,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadulhaque&show_icons=true&locale=en&layout=compact" alt="amadulhaque" /></p>
 
 
- ![](https://leetcard.jacoblin.cool/amadul?theme=unicorn&&ext=activity&&ext=heatmap)
+ ![](https://leetcard.jacoblin.cool/amadul?theme=unicorn&&ext=heatmap)
