@@ -16,8 +16,7 @@
 
 <div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amadulhaque&show_icons=true&locale=en&layout=compact" alt="amadulhaque" />
- ![](https://leetcard.jacoblin.cool/amadul?theme=unicorn&&ext=heatmap)
- 
+![Leetcode Stats](https://leetcard.jacoblin.cool/amadul?theme=unicorn&&ext=heatmap) 
 </p>
  
 </div>
