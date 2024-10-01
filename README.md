@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm AmadulHaque</h1>
 <h3 align="center">Full Sack Developer</h3>
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmadulHaque/AmadulHaque/output/github-contribution-grid-snake.svg" />
+
+  <br/><br/><br/>
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amadulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="amadulhaque" /> </p>
 
 - 📫 How to reach me **mdamadulhaque8@gmail.com**
