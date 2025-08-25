@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AmadulHaque</h1>
-<h3 align="center">Full Sack Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amadulhaque&label=Profile%20views&color=0e75b6&style=flat" alt="amadulhaque" /> </p>
 
