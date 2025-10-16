@@ -88,26 +88,3 @@ This profile is open to contributions! Feel free to suggest improvements via pul
 
 **Note:** If you don't have a specific repo for this profile, the contributors graph above links to your main profile repo. To make it functional for a project repo, update the URL accordingly (e.g., for `laravel-1688-package`).
 
----
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-%F0%9F%A4%9D-blue?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
-</div>
-
----
-
-## How to Implement These Updates
-1. **Copy the Markdown Above**: Paste this entire content into your `README.md` file in the `amadulhaque/amadulhaque` repository (create it if it doesn't exist).
-2. **Add the Contributors App**:
-   - Go to [GitHub Marketplace](https://github.com/marketplace?type=apps).
-   - Search for "All Contributors" or "GitHub Contributors" app.
-   - Install it on your profile repo (or a specific project repo like `laravel-1688-package`).
-   - Run `npx all-contributors-cli generate` in your repo (if using the CLI tool) to auto-populate contributors.
-   - The chart will dynamically update based on contributions.
-3. **Customize Further**:
-   - Update social links (e.g., add your actual Twitter handle).
-   - Pin more repos via GitHub settings.
-   - For advanced flair, add a custom domain or GitHub Pages site.
-4. **Preview & Commit**: Use GitHub's preview tab to check rendering, then commit and push.
-
-This updated profile is more engaging, visually advanced with dynamic elements, and professional—highlighting your skills while inviting collaboration! If you need tweaks or code for specific sections, let me know. 🚀
