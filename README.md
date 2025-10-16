@@ -78,13 +78,3 @@ Passionate Full-Stack Software Developer with expertise in building scalable web
   <a href="https://github.com/amadulhaque" target="blank"><img align="center" src="https://simpleicons.org/icons/github.svg" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-### 🤝 Contributing & Contributors
-This profile is open to contributions! Feel free to suggest improvements via pull requests.
-
-<!-- GitHub Contributors Chart - Replace 'your-repo-name' with an actual repo if you have one; otherwise, this serves as a placeholder for collaborative spirit -->
-<div align="center">
-  <img src="https://contrib.rocks/image?repo=amadulhaque/amadulhaque" alt="Contributors Graph" />
-</div>
-
-**Note:** If you don't have a specific repo for this profile, the contributors graph above links to your main profile repo. To make it functional for a project repo, update the URL accordingly (e.g., for `laravel-1688-package`).
-
