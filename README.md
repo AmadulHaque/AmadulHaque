@@ -2,16 +2,16 @@
 
 ## 👨‍💻 About Me
 
-* Passionate **Software Developer** focused on building reliable, user‑centric web apps.
+* Passionate **Software Developer** focused on building reliable, user-centric web apps.
 * Comfortable across the stack: **JavaScript/TypeScript, React, Node.js/Express, PHP**, and **SQL/NoSQL**.
-* Love turning ideas into production‑grade systems with good architecture, tests, and docs.
+* Love turning ideas into production-grade systems with good architecture, tests, and docs.
 * Always learning, always shipping.
 
 ## 🧰 Languages & Tools
 
 ## 🚀 Featured Projects
 
-> Replace the repo names below with your own. These cards auto‑update.
+> Replace the repo names below with your own. These cards auto-update.
 
 ## 📊 GitHub Analytics
 
@@ -21,7 +21,7 @@
 
 - **Contribution Graph**
 
-## 🙌 Contributors (auto‑updated)
+## 🙌 Contributors (auto-updated)
 
 > Showcase contributors to one of your repositories (e.g., a **Contributors App**). Replace `<OWNER>/<REPO>` below with your repo path.
 
@@ -32,29 +32,6 @@
 * **Facebook:** mdamadul.islam.921
 
 ---
-
-### ⚙️ Optional: Auto‑Update Contributors with a GitHub Action
-
-1. Create (or pick) a repo you want to showcase contributors for, for example `Contributors-App`.
-2. Add this workflow file at `.github/workflows/update-contributors.yml` **in that repo**:
-
-```yml
-name: Update Contributors Image
-on:
-  schedule:
-    - cron: '0 0 * * 1' # every Monday
-  workflow_dispatch: {}
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Trigger image refresh
-        run: |
-          curl -s "https://contrib.rocks/image?repo=<OWNER>/<REPO>" > /dev/null
-```
-
-> This pings **contrib.rocks** so the image stays fresh. Replace `<OWNER>/<REPO>` with your repo.
 
 ### ➕ Optional: All Contributors Bot (badges + table)
 
